@@ -4,7 +4,7 @@
 
 **what do you notice about the map? what do the pins actually represent?**
 
-the highlighted pins here represent the volume of data at each point, not anything specifially about the data itself. the larger the number, the more alarming the color (yellow vs. green vs. orange, etc.). so, a pin that says 100 actually represents 10 pins that each say 10. each "10" pin represents a high school — specifically, 10 years of available admissions data for that high school. once you click on an individual high school, a spiral of blue pinpoints emerges to show the number of datapoints connected to that location. it doesn't appear that you can actually explore that data, though — at least not from the map itself.
+the highlighted pins here represent the volume of data at each point, not anything specifially about the data itself. the larger the number, the more alarming the color (yellow vs. green vs. orange, etc.). so, a pin that says 100 actually represents 10 pins that each say 10. each "10" pin represents a high school — specifically, 10 years of available admissions data for that high school. once you click on an individual high school, a spiral of blue pinpoints emerges to show the number of datapoints connected to that location. it doesn't appear that you can actually explore that data, though — at least not from the map itself. that's actually super annoying and lowkey stupid. just saying.
 
 **admissions apps ideas**
 
